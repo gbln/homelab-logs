@@ -17,6 +17,7 @@ The Radeon Vega VII is a GPU from 2019 based on the `gfx906` architecture, carry
 * **Storage:** 2TB M.2 NVMe
 * **Networking:** Intel X520-DA2 NIC
 * **System Graphics:** NVIDIA P620 (leaving the Vega exclusively for AI workloads)
+* **AI GPU:** Radeon Vega VII
 * **Hypervisor:** Proxmox VE (AI service running inside a dedicated VM)
 
 ![Machine Setup](assets/general.jpg)
