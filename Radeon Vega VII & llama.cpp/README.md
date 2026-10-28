@@ -183,26 +183,6 @@ Prompt processing determines prefill throughput (how fast input tokens are parse
 ![Power Efficiency](assets/efficiency.png)
 ![VRAM Footprint](assets/vram.png)
 
-#### VRAM Allocation @ 8192 Context
-* **Qwen3-14B Q4:** 9.62 GB *(+6.38 GB free)*
-* **Coder-14B Q4:** 9.83 GB *(+6.17 GB free)*
-* **DS-R1 Q4:** 9.86 GB *(+6.14 GB free)*
-* **Phi-4 Q4:** 10.14 GB *(+5.86 GB free)*
-* **Qwen3-14B Q6:** 12.34 GB *(+3.66 GB free)*
-* **Coder-14B Q6:** 12.58 GB *(+3.42 GB free)*
-* **Phi-4 Q6:** 12.78 GB *(+3.22 GB free)*
-* **Gemma 4 Q8:** 13.72 GB *(+2.28 GB free)*
-
-#### Power Efficiency (tg t/s per 100W)
-1. **Phi-4 Q4:** 15.53 tg t/s / 100W
-2. **Qwen3-14B Q4:** 13.12 tg t/s / 100W
-3. **Gemma 4 Q8:** 12.44 tg t/s / 100W
-4. **DS-R1 Q4:** 12.44 tg t/s / 100W
-5. **Coder-14B Q6:** 12.18 tg t/s / 100W
-6. **Qwen3-14B Q6:** 10.81 tg t/s / 100W
-7. **Coder-14B Q4:** 10.64 tg t/s / 100W
-8. **Phi-4 Q6:** 10.50 tg t/s / 100W
-
 ---
 
 ## Key Takeaways
