@@ -1,6 +1,6 @@
 # Upgrading a Lenovo P510 to Run Local LLMs
 
-> *Transformando una estación de trabajo Lenovo P510 de segunda mano en un nodo de inferencia para LLMs locales y virtualización con Proxmox.*
+> *Transforming a second-hand Lenovo P510 workstation into an inference node for local LLMs and Proxmox virtualization.*
 
 ---
 
