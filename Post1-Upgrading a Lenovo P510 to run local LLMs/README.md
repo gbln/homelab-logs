@@ -28,11 +28,11 @@ This was a hard one, at first I was super convinced of getting an RTX 3060 12GB,
 
 Obviously, at raw power there's absolutely no comparison between these two but hear me out, with a power limit of 250W (stock is limited to 300W), running Gemma 4 12B Q8 with the maximum context possible in llama.cpp with ROCm I'm getting an average generation of 39-42 tk/s with lows of ~31 tk/s and max of ~49 tk/s depending on the prompt. I'll make a post talking more in depth about benchmarks and the setup I use to run the models.
 
-![Networking](assets/networking.jpg)
+<!-- ![Networking](assets/networking.jpg) -->
 
 With this I kept it simple, I chose a 10GB SFP+ setup, for this I bought an Intel X520-DA2 on eBay for 25€. I dedicated one of the ports exclusively for the AI server and I'd kept the other one free because in the future I plan to add some HDDs and make a virtual machine for a NAS.
 
-![Storage](assets/storage.jpg)
+<!-- ![Storage](assets/storage.jpg) -->
 
 For storage I chose the 2TB Kioxia Exceria Plus G3 with a read speed of 5000 MB/s, I bought it before the crisis for 121€ (right now it is listed for more than 270€), as the Lenovo P510 does not have M.2 ports I connected it to a M.2 to PCIe adapter and it is working seamlessly.
 
