@@ -1,4 +1,4 @@
-#  Homelab & AI Infrastructure Logs
+#  Homelab Logs
 
 Welcome to my technical documentation repository. Here I log the setup, optimization, and benchmarks of my homelab, focusing heavily on local Large Language Model (LLM) inference and Proxmox virtualization.
 
