@@ -1,6 +1,6 @@
 #  Homelab & AI Infrastructure Logs
 
-Welcome to my technical documentation repository. Here I log the setup, optimization, and benchmarks of my homelab, focusing heavily on local Large Language Model (LLM) inference on AMD hardware (Radeon Vega VII) and Proxmox virtualization.
+Welcome to my technical documentation repository. Here I log the setup, optimization, and benchmarks of my homelab, focusing heavily on local Large Language Model (LLM) inference and Proxmox virtualization.
 
 ---
 
